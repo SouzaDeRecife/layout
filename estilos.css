@@ -37,3 +37,11 @@ color: #AFF;
 #parques h1, #parques h2 {
 color: #FFF;
 }
+
+h1 {
+padding-top: 10px; 
+}
+
+h2 {
+font-size: 15px;
+}
